@@ -95,5 +95,4 @@ The notebook includes bar charts, a histogram, and a line graph for:
 Made with 🎬 and Python by **Satyajeet**
 GitHub: [Satyajeet745](https://github.com/Satyajeet745)
 
----
-⭐ If you found this project useful, consider giving it a star!
+
