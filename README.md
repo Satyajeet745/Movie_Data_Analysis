@@ -84,11 +84,6 @@ The notebook includes bar charts, a histogram, and a line graph for:
 - Genre-wise vote totals
 - Movie releases by year (histogram & line graph)
 
-## 🔮 Future Improvements
-
-- Analyze popularity trends by genre over time
-- Compare rating distributions across genres
-- Add correlation analysis between popularity, vote count, and vote average
 
 ## 🙋‍♂️ Author
 
